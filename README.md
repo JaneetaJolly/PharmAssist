@@ -1,4 +1,5 @@
 PharmAssist
+
 A pharmacist's assistant that scand handwritten prescriptions and automatically converts them into structured digital orders.
 
 Key Features:
